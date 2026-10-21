@@ -1,7 +1,8 @@
 # tncgcr-server
 
-a server for tncgcr (https://github.com/TheRealOwenJ/tncgcr).  
-i do have to note that this repo is primarily for the current hosted render instance, but it shouldnt be hard to configure it for normal hosting.
+a server for tncgcr (https://github.com/TheRealOwenJ/tncgcr).
+
+please ignore the vercelversion folder, as i use it for vercel hosting. (hence the name)
 
 the port should be 8089, otherwise it would require changing the code for the clients.  
 just run main.js and ensure history.json and settingz.json are in the same folder!  
